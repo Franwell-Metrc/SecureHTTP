@@ -1,0 +1,19 @@
+{
+  "name": "com.synconset.cordovahttp",
+  "version": "0.2.2",
+  "description": "Cordova / Phonegap plugin for communicating with HTTP servers using SSL pinning",
+  "main": "www/cordovaHTTP.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franwell-Metrc/SecureHTTP.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Franwell-Metrc/SecureHTTP/issues"
+  },
+  "homepage": "https://github.com/Franwell-Metrc/SecureHTTP#readme"
+}
